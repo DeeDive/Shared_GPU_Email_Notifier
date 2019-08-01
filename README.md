@@ -7,6 +7,8 @@ This script can increase the utilization of shared GPU and save you a lot of tim
 + Python3.x
 + An email account that supports smtp service
 
+---
+
 ### References:
 + Main framework https://github.com/lbf4616/Automatic-Monitor-linux-sever-GPU-situation/tree/d302ecdb8343912af8488b073d03c946038303f0
 + Nvidia-smi --query-gpu https://cloud.tencent.com/developer/article/1064955
